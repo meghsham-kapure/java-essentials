@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Sort_BubbleSorting" isTestSource="false" packagePrefix="jd06_sorting.sort_bubblesorting" />
+      <sourceFolder url="file://$MODULE_DIR$/Sort_CyclicSort" isTestSource="false" packagePrefix="jd06_sorting.sort_cyclicsort" />
+      <sourceFolder url="file://$MODULE_DIR$/Sort_InsertionSorting" isTestSource="false" packagePrefix="jd06_sorting.sort_insertionsorting" />
+      <sourceFolder url="file://$MODULE_DIR$/Sort_SelectionSorting" isTestSource="false" packagePrefix="jd06_sorting.sort_selectionsorting" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
